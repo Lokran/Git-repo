@@ -1,3 +1,5 @@
 Print 'hello;'
 Print 'hello vse;'
 Print 'hello she;'
+Print 'hello may deer frends;'
+Print 'glad to see you;'
