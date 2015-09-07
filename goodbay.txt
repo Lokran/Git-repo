@@ -1,1 +1,2 @@
 Print 'goodbay'
+Print 'goodbay all'
